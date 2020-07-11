@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello, I'm Rafael Kimura 👋
+
+:computer: Currently studying Computer Science at UFPR
+
+:mortar_board: Electrical Engineer 
+
 
 <!--
 **kimurarh/kimurarh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
