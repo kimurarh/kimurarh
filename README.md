@@ -1,9 +1,7 @@
 ### Hello, I'm Rafael Kimura 👋
 
-:mortar_board: Electrical Engineer
-
-:book: Currently studying Computer Science at UFPR
-
+:mortar_board: Electrical Engineer <br />
+:book: Currently studying Computer Science at UFPR<br />
 :earth_americas: Based in Curitiba, Brazil
 
 
