@@ -1,7 +1,7 @@
 ### Hello, I'm Rafael Kimura 👋
 
+:computer: AI Resident @ Artificial Intelligence Hub SENAI <br />
 :mortar_board: Electrical Engineer <br />
-:book: Currently studying Computer Science at UFPR<br />
 :earth_americas: Based in Curitiba, Brazil
 
 
