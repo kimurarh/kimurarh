@@ -1,6 +1,8 @@
-### Hello, I'm Rafael Kimura 👋
+## Hello, I'm Rafael Kimura 👋
 
-:mortar_board: Electrical Engineer <br />
+
+:mortar_board: Bachelor of Electrical Engineering <br />
+:robot: Postgraduate Degree in Applied Artificial Intelligence <br />
 :computer: AI resident @ [SENAI/PR Artificial Intelligence HUB](https://www.senaipr.org.br/tecnologiaeinovacao/nossarede/hubia/), where I work on the development of Data Science and Machine Learning projects to solve real-world problems of the program's sponsoring companies.<br />
 :earth_americas: Based in Curitiba, Brazil<br />
 :busts_in_silhouette: [Linkedin](https://www.linkedin.com/in/kimurarh/)
